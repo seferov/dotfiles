@@ -17,7 +17,6 @@ brew 'spaceman-diff'
 brew 'unrar'
 brew 'wget'
 
-cask '1password'
 cask 'atom'
 cask 'firefox'
 cask 'google-chrome'
