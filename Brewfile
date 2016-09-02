@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
+tap 'homebrew/php'
 
 brew 'ack'
 brew 'coreutils'
@@ -15,6 +16,7 @@ brew 'roundup'
 brew 'spaceman-diff'
 brew 'unrar'
 brew 'wget'
+brew 'composer'
 
 cask 'atom'
 cask 'firefox'
