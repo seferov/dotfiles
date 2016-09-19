@@ -17,6 +17,7 @@ brew 'spaceman-diff'
 brew 'unrar'
 brew 'wget'
 brew 'composer'
+brew 'thefuck'
 
 cask 'sourcetree'
 cask 'sequel-pro'
